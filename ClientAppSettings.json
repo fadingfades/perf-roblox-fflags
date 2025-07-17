@@ -11,11 +11,12 @@
     "DFIntMaxFrameBufferSize": 4,
     "FFlagDisablePostFx": true,
     "FFlagEnableVisBugChecks": true,
-    "FIntDebugForceMSAASamples": 1,
+    "FIntDebugForceMSAASamples": 0,
     "FIntFRMMaxGrassDistance": 0,
     "FIntFRMMinGrassDistance": 0,
     "FIntRenderGrassDetailStrands": 0,
     "FIntRenderLocalLightUpdatesMax": 1,
     "FIntRenderLocalLightUpdatesMin": 1,
-    "FIntRenderShadowIntensity": 0
+    "FIntRenderShadowIntensity": 0,
+    "FIntDebugFRMOptionalMSAALevelOverride": 0
 }
